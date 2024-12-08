@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Lukas, currently working as a software engineer at Siemens Energy. In my spare time I am building [cronstamp.com](https://cronstamp.com/).
+
+Check out my website for more: [lukasbommes.de](https://lukasbommes.de/)
+
+
+
 <!--
 **LukasBommes/LukasBommes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
