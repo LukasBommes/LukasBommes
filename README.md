@@ -4,7 +4,7 @@ I'm Lukas, currently working as a software engineer at Siemens Energy.
 
 In my spare time I am building [cronstamp.com](https://cronstamp.com/).
 
-Check out my website [lukasbommes.de](https://lukasbommes.de/) for more. :)
+Check out my website [lukasbommes.de](https://lukasbommes.de/) for more. 😊
 
 
 
